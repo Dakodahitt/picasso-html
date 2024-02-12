@@ -1,0 +1,27 @@
+
+.from{
+        display: flex;
+        justify-content: center;
+}
+.button{
+    
+        display: flex;
+        justify-content: center;
+        padding-top: .5em;
+}
+header{
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+}
+img{
+max-width: 15em;
+max-height: 15em;
+padding: .5em;
+border-radius: 2em;
+display: flex;
+align-self: flex-start;
+}
+a{
+    font-size: 1.3em;
+}
